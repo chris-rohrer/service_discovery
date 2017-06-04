@@ -1,0 +1,22 @@
+.tab-header-area .tab-header-background {
+    -fx-background-color: transparent;
+}
+
+.tab-content-area {
+    -fx-border-color: lightgray;
+}
+
+.tab-pane .tab:selected {
+    -fx-background-color: #f55e61ff;
+}
+.tab:selected .tab-label{
+    -fx-text-fill: white;
+}
+
+.toggle-button:selected{
+    -fx-background-color: #f55e61ff;
+    -fx-text-fill: white;
+}
+
+
+
